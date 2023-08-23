@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color:#E9A7DA;
+}
+.cabecalho {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px  0;
+}
+
+
+.cabecalho-imagem{
+    width: 50%;
+
+}
+
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.escola-imagem{
+    width: 30%;
+}
+
+.escola{
+    display: flex;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
